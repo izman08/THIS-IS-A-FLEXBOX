@@ -1,0 +1,56 @@
+.box {
+    background-color: white;
+    margin: 0 auto;
+}
+
+.first {
+    background-color: black;
+    color: white;
+
+}
+
+.maintwo>li {
+    display: inline-block;
+    padding: 10px;
+    text-transform: capitalize;
+
+}
+
+
+
+.second {
+    background-color: black;
+    color: white;
+    width: 12%;
+    height: 40vh;
+    text-align: center;
+}
+
+.mainthree>li {
+    padding-bottom: 8px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+a:hover {
+    color: brown;
+}
+
+.third {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.fourth {
+    text-align: center;
+    font-weight: bolder;
+    background-color: black;
+    color: beige;
+}
+
+.fifth {
+    text-align: center;
+    font-weight: bolder;
+    border: 20px;
+    border color: black;
+}
